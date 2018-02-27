@@ -4,13 +4,15 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+February 27, 2018
 
 ### Student Name:  
-(First and Last Name)
+Annie Jacobson
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This tax bracket calculator application will find out which IRS tax bracket you are in as a user. The calculator itself will return an estimate of the
+actual tax rate and tax amount for the user based on the users’ filing status and taxable income,
+which are provided by the user.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
