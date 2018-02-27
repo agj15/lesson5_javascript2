@@ -19,7 +19,7 @@ which are provided by the user.
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Array: A set of data represented by a single variable name. It is an example of a composite or a complex data type. An example of an array would be "var" which is used to represent variable
+2. Switch Statements: They control program flow by executing a specific set of statements and they are dependent on an expression value. It also compares expression value to value contained within a case label
+3. Case label: These represent a specific value and contain one or more statements that can execute different situations. For example, If case label value matches the switch statement’s expression value
 
