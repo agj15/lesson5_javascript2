@@ -15,8 +15,7 @@ actual tax rate and tax amount for the user based on the users’ filing status 
 which are provided by the user.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://github.com/agj15/lesson5_javascript2
 
 ### Lessons Learned in the Assignment:
 1. Array: A set of data represented by a single variable name. It is an example of a composite or a complex data type. An example of an array would be "var" which is used to represent variable
