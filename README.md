@@ -17,6 +17,8 @@ which are provided by the user.
 ### View Project:
 https://github.com/agj15/lesson5_javascript2
 
+https://agj15.github.io/lesson5_javascript2/
+
 ### Lessons Learned in the Assignment:
 1. Array: A set of data represented by a single variable name. It is an example of a composite or a complex data type. An example of an array would be "var" which is used to represent variable
 2. Switch Statements: They control program flow by executing a specific set of statements and they are dependent on an expression value. It also compares expression value to value contained within a case label
